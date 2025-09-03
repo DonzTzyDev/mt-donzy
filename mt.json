@@ -1,0 +1,15 @@
+{
+  "banned": [
+    "🎰 ${name} - SLOT GACOR HARI INI! 🔥\n\nAkses sekarang: ${link}\n\n• RTP 97%+\n• Bonus Deposit 100%\n• 50 Free Spins\n• Withdraw 1 Menit\n\n🎯 Jangan lewatkan kesempatan ini!",
+    "💥 SLOT GACOR DI ${name}! 💰\n\nDeposit kecil, menang besar! Cuma di ${link}\n\n✅ 100% Terbukti Bayar\n✅ Support 24 Jam\n✅ Proses Cepat & Aman",
+    "⚠️ PERINGATAN SPAM: Akun terkait ${link} (dikelola oleh ${name}) telah melakukan spam otomatis secara massal. Mohon ditindaklanjuti oleh tim terkait."
+  ],
+  "unbanned": [
+    "👋 Halo tim WhatsApp,\n\nSaya pengguna setia WhatsApp dengan nomor +62XXXXXXXXXXX. Akun saya tiba-tiba diblokir tanpa alasan jelas, padahal tidak pernah melakukan spam, penipuan, atau pelanggaran apapun.\n\nMohon bantuan untuk pemulihan akun karena banyak data penting di dalamnya.\n\nTerima kasih.",
+    "📢 LAPORAN UNBAN:\n\nAkun WhatsApp saya (+62XXXXXXXXXXX) diblokir sejak kemarin. Saya adalah admin resmi dari situs ${name} (${link}) dan membutuhkan WhatsApp untuk kerja.\n\nMohon verifikasi dan buka blokir secepatnya. Terima kasih atas bantuan tim WhatsApp."
+  ],
+  "spamtoperma": [
+    "🔐 LAPORAN SPAM TO PERMA:\n\nNomor: +${number}\nSumber: ${link}\nNama: ${name}\n\nAkun ini terdeteksi melakukan spam massal, penipuan, dan aktivitas mencurigakan. Mohon segera dinonaktifkan secara permanen untuk melindungi pengguna lain.",
+    "🛑 PERMANENT BAN REQUEST:\n\n• Nomor: +${number}\n• Alasan: Spam otomatis, penipuan, dan manipulasi OTP\n• Link terkait: ${link}\n\nAkun ini sangat berbahaya. Mohon nonaktifkan segera untuk mencegah kerugian lebih lanjut."
+  ]
+}
